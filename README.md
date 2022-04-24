@@ -14,12 +14,16 @@
 
 안녕하세요👋
 
-저는 머신러닝 엔지니어를 꿈꾸는 강혜윤입니다.
+저는 머신러닝 엔지니어를 꿈꾸는 **강혜윤**입니다.
 
-CV, NLP에 관심이 많고, 현재 네이버 부스트캠프 AI Tech를 수강하며 자연어처리를 공부하고 있습니다.
+**CV, NLP**에 관심이 많고, 현재 네이버 부스트캠프 AI Tech를 수강하며 자연어처리를 공부하고 있습니다.
+
+
+### ⚒ Tech Stack ⚒
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyeyoon&show_icons=true&theme=radical)
 
-<!-- Tech Stack -->
 
-<!--  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a> -->
