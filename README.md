@@ -19,9 +19,20 @@
 **CV, NLP**에 관심이 많고, 현재 네이버 부스트캠프 AI Tech를 수강하며 자연어처리를 공부하고 있습니다.
 
 
-### ⚒ Tech Stack ⚒
+### Tech Stack ⚒
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+* Languages 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+
+* Frameworks/Tools
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+
+### Paper 📃
+
+* OCR-based Inventory Management Algorithms Robust to Damaged Images (3저자)
+	> 2021 IEEE International Conference on Robotics and Automation (ICRA)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyeyoon&show_icons=true&theme=radical)
