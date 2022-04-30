@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://khyeyoon.github.io/categories/)](https://khyeyoon.github.io/categories/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koycc1220@gmail.com)](mailto:koycc1220@gmail.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat&logo=github&link=https://khyeyoon.github.io/categories/)](https://khyeyoon.github.io/categories/) [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@khyeyoon)](https://velog.io/@khyeyoon) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:koycc1220@gmail.com)](mailto:koycc1220@gmail.com)
 
  </div>
  
