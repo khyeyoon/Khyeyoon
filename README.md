@@ -33,10 +33,10 @@ https://guiltless-tiglon-d23.notion.site/Hyeyoon-Kang-bf1aaa6463b7474d9b7d8a3140
 
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 
-### Paper 📃
+<!-- ### Paper 📃
 
 * OCR-based Inventory Management Algorithms Robust to Damaged Images (3저자)
-	> 2021 IEEE International Conference on Robotics and Automation (ICRA)
+	> 2021 IEEE International Conference on Robotics and Automation (ICRA) -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyeyoon&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koycc1220)](https://solved.ac/koycc1220/)
