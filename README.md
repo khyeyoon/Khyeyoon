@@ -18,7 +18,7 @@
 
 **CV, NLP**에 관심이 많고, 현재 네이버 부스트캠프 AI Tech를 수강하며 자연어처리를 공부하고 있습니다.
 
-아래 URL에서 이력서를 확인하실 수 있습니다 :)
+아래 URL에서 **이력서**를 확인하실 수 있습니다 :)
 
 https://guiltless-tiglon-d23.notion.site/Hyeyoon-Kang-bf1aaa6463b7474d9b7d8a3140be02c0
 
