@@ -20,8 +20,7 @@
 
 아래 URL에서 **이력서**를 확인하실 수 있습니다 :)
 
-https://guiltless-tiglon-d23.notion.site/Hyeyoon-Kang-bf1aaa6463b7474d9b7d8a3140be02c0
-
+https://guiltless-tiglon-d23.notion.site/Hyeyoon-Kang-4ace85928dab49149bc8844d0be49cdf
 
 ### Tech Stack ⚒
 
